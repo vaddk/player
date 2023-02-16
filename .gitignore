@@ -1,0 +1,18 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+
+node_modules
+.DS_Store
+dist
+dist-ssr
+coverage
+*.local
+
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea
+__unconfig_vite.config.ts
